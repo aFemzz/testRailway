@@ -1,4 +1,4 @@
-package reverseString
+package testRailway
 
 func Reverse(s string) string {
 	runes := []rune(s)
