@@ -1,0 +1,11 @@
+package main
+
+import (
+	"fmt"
+
+	"github.com/aFemzz/testRailway"
+)
+
+func main() {
+	fmt.Println(rever)
+}
